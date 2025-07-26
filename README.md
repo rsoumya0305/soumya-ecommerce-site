@@ -23,11 +23,4 @@ A fully responsive eCommerce website built using **HTML, CSS, and JavaScript**. 
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [Visit Live Site] https://github.com/rsoumya0305/soumya-ecommerce-sit
-
----
-
-
 
