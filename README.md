@@ -19,15 +19,15 @@ A fully responsive eCommerce website built using **HTML, CSS, and JavaScript**. 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 [Visit Live Site](https://rsoumya0305.github.io/soumya-ecommerce-site/)
+🔗 [Visit Live Site] https://github.com/rsoumya0305/soumya-ecommerce-sit
 
 ---
 
-## 📁 Project Structure
+
 
